@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>org.skeleton.web</name>
+	<name>SkeletonWeb</name>
 	<comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
 	<projects>
+		<project>SkeletonCommon</project>
+		<project>SkeletonService</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
